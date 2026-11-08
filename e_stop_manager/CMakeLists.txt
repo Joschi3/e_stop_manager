@@ -80,3 +80,5 @@ ament_export_dependencies(
   generate_parameter_library generate_parameter_lib_validators)
 
 ament_package()
+
+# Staging test 2026-11-08: push-triggered build (phase 4)
