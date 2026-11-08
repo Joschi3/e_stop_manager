@@ -82,3 +82,5 @@ ament_export_dependencies(
 ament_package()
 
 # Staging test 2026-11-08: push-triggered build (phase 4)
+
+# Staging test 2026-11-08: PR CI (phase 5)
